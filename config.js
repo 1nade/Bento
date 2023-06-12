@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Zaxify',
+  name: 'Ian',
   imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: true,
@@ -20,7 +20,7 @@ const CONFIG = {
   greetingMorning: 'Good morning!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingNight: 'Go to Sleep,',
 
   // Layout
   bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
